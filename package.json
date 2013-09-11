@@ -1,0 +1,8 @@
+{
+    "name": "RemoteWorkers",
+    "description": "How to make the Continuous Integration system  work with remote workers with a single TestCafe instance",
+    "dependencies": {
+        "testcafe" : "13.1.1"
+    },
+    "main": "index"
+}
